@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Muhammad Azreen</h1>
+<h1 align="center">Azreen</h1>
 
 <p align="center"><i>Applied AI developer exploring AI, software, data, and emerging technologies.</i></p>
 
