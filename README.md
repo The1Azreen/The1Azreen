@@ -34,14 +34,14 @@
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Online Price Finder** | AI-powered tool for finding Singapore-based product prices, manufacturer information, contact details, and supporting sources from the web. Built with Python, OpenAI APIs, web search, and Streamlit. | [GitHub](https://github.com/The1Azreen) |
-| **Price Reason Finder** | AI-assisted research tool for investigating and explaining price movements using product information, economic data, news, and external sources. | [GitHub](https://github.com/The1Azreen) |
-| **Experimental Indices** | Data engineering and statistical experimentation involving trade data, unit rates, HS/SITC classifications, and imputation methods for experimental price indices. | [GitHub](https://github.com/The1Azreen) |
+| **JustAnotherDiscordRichPresenceApp** | Research project exploring 3D Gaussian Splatting for robust near-real-time reconstruction of post-fire environments, supporting scalable scene reconstruction and investigation workflows. | [Github](https://github.com/The1Azreen/JustAnotherDiscordRichPresenceApp) |
 | **3D Gaussian Splatting for Fire Investigation** | Research project exploring 3D Gaussian Splatting for robust near-real-time reconstruction of post-fire environments, supporting scalable scene reconstruction and investigation workflows. | [Project](https://github.com/The1Azreen) |
-| **Singapore History LLM Chatbot** | Retrieval-augmented conversational AI project exploring how LLMs can be combined with curated historical sources to answer questions about Singapore's history. | [GitHub](https://github.com/The1Azreen) |
-| **Anime Image Upscaling** | Deep learning project exploring anime image super-resolution and fine-tuning Real-ESRGAN models with adversarial training and decade-based image augmentation. | [GitHub](https://github.com/The1Azreen) |
+| **Singapore History LLM Chatbot** | Retrieval-augmented conversational AI project exploring how LLMs can be combined with curated historical sources to answer questions about Singapore's history. | [GitHub](https://github.com/The1Azreen/Singapore-History-Based-Trivia-Chatbot-) |
+| **Anime Image Upscaling** | Deep learning project exploring anime image super-resolution and fine-tuning Real-ESRGAN models with adversarial training and decade-based image augmentation. | [GitHub](https://github.com/The1Azreen/Anime-Image-Upscaling-with-Fine-Tuned-Real-ESRGAN-M-ESRGAN-) |
 | **VR Museum** | Virtual reality museum experience built with Unity for HTC Vive, featuring interactive exhibits, teleportation, object interaction, audio guides, and customizable exhibit layouts. | [GitHub](https://github.com/The1Azreen/Vr-Museum-) |
-| **Bird Laser Targeter** | Computer vision and embedded AI project combining bird-call detection, YOLO-based object detection, Raspberry Pi hardware, and pan-tilt control for automated bird deterrence. | [GitHub](https://github.com/The1Azreen) |
+| **Bird Laser Targeter** | Computer vision and embedded AI project combining bird-call detection, YOLO-based object detection, Raspberry Pi hardware, and pan-tilt control for automated bird deterrence. | [GitHub](https://github.com/dragonstonehafiz/inf2009-project) |
+| **Speech-Emotion-Recognition-using-Wav2Vec2** | Implements a Speech Emotion Recognition (SER) system using the Wav2Vec2 pre-trained model. The system analyzes speech audio and classifies it into four emotional categories: Neutral, Happy, Sad, and Angry.\. | [GitHub](https://github.com/The1Azreen/Speech-Emotion-Recognition-using-Wav2Vec2) |
+| **Robotic-Car** | Our project centers on developing an autonomous two-wheeled robot car powered by the Raspberry Pi Pico W as its primary microcontroller. The robot is designed to efficiently navigate predefined maps using advanced navigation algorithms. It features obstacle detection and avoidance capabilities, along with the ability to decode Barcode-39 standard barcodes.\. | [GitHub](https://github.com/The1Azreen/Robotic-Car) |
 
 ## Technologies, Languages and Frameworks
 
