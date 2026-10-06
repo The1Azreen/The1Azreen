@@ -2,7 +2,7 @@
 
 <h1 align="center">Azreen</h1>
 
-<p align="center"><i>Applied AI developer exploring AI, software, data, and emerging technologies.</i></p>
+<p align="center"><i>Applied AI Graduate, Data Engineer, developer exploring AI, software, data, and emerging technologies. Basically wherever this ADHD mind takes me it will be there.</i></p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=The1Azreen&label=Visitors&color=0e75b6&style=plastic" alt="Visitors" />
