@@ -10,8 +10,8 @@
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio%20Site-Under%20Maintenance-2f81f7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Site" height="40" />
+<a href="https://the1azreen.neocities.org/">
+<img src="https://img.shields.io/badge/The1Azreen%27s-Website-FF6FF2?style=for-the-badge&logo=html5&logoColor=F7C948&labelColor=2B1B4F" alt="The1Azreen's Website" height="40" />
 </a>
 &nbsp;
 <a href="https://www.youtube.com/watch?v=P8IKdG1-IL0">
